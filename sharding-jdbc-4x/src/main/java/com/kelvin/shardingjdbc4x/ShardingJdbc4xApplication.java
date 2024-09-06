@@ -2,7 +2,6 @@ package com.kelvin.shardingjdbc4x;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-// 1552
 @SpringBootApplication
 public class ShardingJdbc4xApplication {
 
