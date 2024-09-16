@@ -44,6 +44,9 @@ class ShardingJdbc5xApplicationTests {
         List<User> users = userMapper.selectList(null);
     }
 
+    /**
+     * 负载均衡测试
+     */
     @Test
     public void testLoadBalance() {
 
